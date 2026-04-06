@@ -13,7 +13,7 @@
 ## Tema
 
 ### Descripción:
-  Sistema de gestion para una tienda online de venta de boletos.
+Se busca crear un Sistema de Gestion y Venta de pasajes para una aereolinea. El sistema busca permitirle al usuario   registrarse, buscar vuelos, visualizar información detallada de estos y realizar reservas. 
 
 ### Modelo
 
