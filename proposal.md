@@ -23,7 +23,7 @@ Se busca crear un Sistema de Gestion y Venta de pasajes para una aereolinea. El 
   |Req|Detalle|
   |:-|:-|
   |CRUD Simple|1. CRUD Usuario<br>2. CRUD Aeropuerto|
-  |CRUD Dependiente|1. CRUD Pasajero<br>CRUD Administrador|
+  |CRUD Dependiente|1. CRUD Vuelo|
   |Listado+detalle|Listado de Vuelos|
   |CUU/Epic|Reservar pasajes<br>Checkin|
 
