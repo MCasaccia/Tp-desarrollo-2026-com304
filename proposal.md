@@ -30,5 +30,5 @@ Se busca crear un Sistema de Gestion y Venta de pasajes para una aereolinea. El 
   Aprobación directa
   |Req|Detalle|
   |:-|:-|
-  |CRUD|1. CRUD Administrador|
+  |CRUD|1. CRUD Avion|
   |CUU/Epic|Buscar vuelos<br>Metodo de pago|
