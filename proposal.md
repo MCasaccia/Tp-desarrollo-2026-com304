@@ -16,6 +16,7 @@
 Se busca crear un Sistema de Gestion y Venta de pasajes para una aereolinea. El sistema busca permitirle al usuario   registrarse, buscar vuelos, visualizar información detallada de estos y realizar reservas. 
 
 ### Modelo
+<img width="797" height="241" alt="DER_DSW_01" src="https://github.com/user-attachments/assets/89c8931a-1ed5-4a2b-bd2a-28cb19adff1f" />
 
 ## Alcance Funcional
 ### Alcance Minimo
