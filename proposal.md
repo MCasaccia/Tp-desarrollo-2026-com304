@@ -7,8 +7,8 @@
   * 52803 - Libardi Valentino Bruno (Comision 304)
 
 ### Repositorios:
-  * link full
-  * link back
+  * https://github.com/valenlib/FrontEnd_DSW
+  * https://github.com/valenlib/Backend_DSW
 
 ## Tema
 
